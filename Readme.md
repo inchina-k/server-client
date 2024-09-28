@@ -70,10 +70,10 @@ The server should now be listening on port 8080.
 
 The client.exe is now located in the `server-client\out\build\x64-debug\client` or `server-client\out\build\x64-release\client` directory.
 
-Open a NEW terminal window:
+Open a NEW terminal:
 
 ```
-Ctrl + `
+'+ Developer PowerShell' or '+ Developer Command Prompt' option in the opened window
 ```
 
 Go to the directory where the .exe file is stored:
